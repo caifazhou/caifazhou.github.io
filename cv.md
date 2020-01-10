@@ -13,5 +13,4 @@ Representation learning, self/un-supervised learning, indoor positioning, and po
 ## Professions
 
 ## Education
-'September 2015 to Octobor 2019'
-__ETH Zurich (Dr. Sc.)__
+`September 2015 to Octobor 2019` __ETH Zurich (Dr. Sc.)__
