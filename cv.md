@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 title: Caifa Zhou's Curriculum Vitae
 permalink: /cv/
 published: true
