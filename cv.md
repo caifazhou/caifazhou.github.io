@@ -20,3 +20,6 @@ Representation learning, self/un-supervised learning, indoor positioning, and po
 `September 2009 to June 2013` @ __Harbin Institute of Technology (B. E. in Communication Engineering)__
 
 ## Publications
+A list of publications is in the separate [subpage](https://caifazhou.github.io/publications/).
+
+## Hobbies
