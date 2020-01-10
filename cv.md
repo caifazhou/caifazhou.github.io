@@ -12,8 +12,12 @@ Representation learning, self/un-supervised learning, indoor positioning, and po
 
 ## Occupation
 `Nov. 2019 to Dec. 2019` *Postdoc* at **ETH Zurich**
+
 `Sept. 2015 to Oct. 2019` *Research assistant* at **ETH Zurich**
-  - Teaching: Lecturer for  
+  - Teaching: *Projektarbeit basisjahr*
+  - Supervision
+    - Master Thesis: *Fingerprinting-based indoor positioning using a mobile phone* (Tobias Duewell)
+    - Geomatic Seminars
 
 ## Education
 `Sept. 2015 to Oct. 2019` at __ETH Zurich (Dr. Sc.)__
@@ -24,5 +28,12 @@ Representation learning, self/un-supervised learning, indoor positioning, and po
 
 ## Publications
 A list of publications is in the separate [subpage](https://caifazhou.github.io/publications/).
+
+## Awards
+
+## Collaborators
+- [Prof. Dr. Andreas Wieser](), Chair of GSEG, IGP, ETH Zurich
+- Dr. Jan Dirk Wagner (Senior scientist), Leader of EcoVision Lab, IGP, ETH Zurich
+- Dr. Tolga Birdl,
 
 ## Hobbies
