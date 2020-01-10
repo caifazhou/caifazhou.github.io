@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to personal page using `Jekyll?`
+title: How to personal page using Jekyll?
 published: True
 ---
 
