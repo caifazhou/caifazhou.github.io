@@ -5,7 +5,7 @@ permalink: /publications/
 published: true
 ---
 
-Please find my full list of publictions on [Google Scholar](https://scholar.google.ch/citations?user=DGxuxdUAAAAJ&hl=en).
+Please find a full list of my publictions on [Google Scholar](https://scholar.google.ch/citations?user=DGxuxdUAAAAJ&hl=en).
 
 ## 2019
 
