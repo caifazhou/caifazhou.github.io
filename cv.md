@@ -1,6 +1,6 @@
 ---
-layout: page
-title: CV
+layout: cv
+title: Caifa Zhou's Curriculum Vitae
 permalink: /cv/
 published: true
 ---
