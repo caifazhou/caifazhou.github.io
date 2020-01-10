@@ -11,24 +11,24 @@ Research engineer at Riemann Lab (2012 Lab), Huawei Technology.
 Representation learning, self/un-supervised learning, indoor positioning, and point cloud processing.
 
 ## Occupation
-- `Nov. 2019 to Dec. 2019`, *Postdoc* at **ETH Zurich**
-- `Sept. 2015 to Oct. 2019`, *Research assistant* at **ETH Zurich**
+- `From Nov. 2019 to Dec. 2019`, *Postdoc* at **ETH Zurich**
+- `From Sept. 2015 to Oct. 2019`, *Research assistant* at **ETH Zurich**
   - Teaching: *Projektarbeit basisjahr*
   - Supervision
     - Master Thesis: *Fingerprinting-based indoor positioning using a mobile phone* (Tobias Duewell)
     - Geomatic Seminars
 
 ## Education
-- `Sept. 2015 to Oct. 2019` at __ETH Zurich (Dr. Sc.)__
-- `Sept. 2013 to Jun. 2015` at __Harbin Institute of Technology (M. Sc. in Information and Communication Engineering)__
-- `Sept. 2009 to Jun. 2013` at __Harbin Institute of Technology (B. E. in Communication Engineering)__
+- `From Sept. 2015 to Oct. 2019` at __ETH Zurich (Dr. Sc.)__
+- `From Sept. 2013 to Jun. 2015` at __Harbin Institute of Technology (M. Sc. in Information and Communication Engineering)__
+- `From Sept. 2009 to Jun. 2013` at __Harbin Institute of Technology (B. E. in Communication Engineering)__
 
 ## Publications
 A list of publications is in the separate [subpage](https://caifazhou.github.io/publications/).
 
 ## Awards
 - `2019` received *Best Paper (oral presentation)* award from JIDSM 2019.
-- `2015 to 2019` received *Foreign Studying Scholarship* from China Scholarship Council.
+- `From 2015 to 2019` received *Foreign Studying Scholarship* from China Scholarship Council.
 - `2018` received *Best Student Paper* award from IPIN 2018.
 - `2014` received *National Graduate Scholarship* from Chinese Ministry of Education.
 
