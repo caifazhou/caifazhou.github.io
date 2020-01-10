@@ -32,8 +32,10 @@ A list of publications is in the separate [subpage](https://caifazhou.github.io/
 ## Awards
 
 ## Collaborators
-- [Prof. Dr. Andreas Wieser](), Chair of GSEG, IGP, ETH Zurich
-- Dr. Jan Dirk Wagner (Senior scientist), Leader of EcoVision Lab, IGP, ETH Zurich
-- Dr. Tolga Birdl,
+- [Prof. Dr. Andreas Wieser](Prof. Dr. Andreas Wieser](https://gseg.igp.ethz.ch/people/group-head/prof-dr--andreas-wieser.html), Head of the [GSEG, IGP, ETH Zurich](https://gseg.igp.ethz.ch)
+- [Dr.-Ing. Jan Dirk Wegner (Senior scientist)](https://prs.igp.ethz.ch/content/specialinterest/baug/institute-igp/photogrammetry-and-remote-sensing/en/group/people/person-detail.html?persid=186562), Head of [EcoVision Lab, IGP, ETH Zurich](https://prs.igp.ethz.ch/ecovision.html)
+- [Dr. Tolga Birdal](https://profiles.stanford.edu/tolga-birdal), Postdoctoral Research Fellow at the Geometric Computing group of Prof. Leonidas Guibas.
+- [Prof. Dr. Leonidas Guibas](https://profiles.stanford.edu/leonidas-guibas), Head of the Geometric Computation group in the Computer Science Department of Stanford University
+
 
 ## Hobbies
