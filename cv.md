@@ -14,3 +14,7 @@ Representation learning, self/un-supervised learning, indoor positioning, and po
 
 ## Education
 `September 2015 to Octobor 2019` __ETH Zurich (Dr. Sc.)__
+
+`September 2013 to June 2015` __Harbin Institute of Technology (M. Sc. in Information and Communication Engineering)__
+
+`September 2009 to June 2013` __Harbin Institute of Technology (B. E. in Communication Engineering)__
