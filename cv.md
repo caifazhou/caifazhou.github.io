@@ -44,3 +44,6 @@ A list of publications is in the separate [subpage](https://caifazhou.github.io/
 - Bouldering
 - Swimming
 - Tennis
+
+### External link
+A PDF version of my CV is [online available](/assets/files/cv/Caifa_Zhou_CV.pdf).
