@@ -11,4 +11,4 @@ His main areas of research interest are machine learning, deep learning and thei
 
 ### Contact me
 
-[caifazhou@gmail.com](mailto:caifazhou@gmail.com)
+[caifa.zhou@hotmail.com](mailto:caifa.zhou@hotmail.com)
