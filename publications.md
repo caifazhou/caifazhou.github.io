@@ -27,6 +27,8 @@ Please find a full list of my publictions on [Google Scholar](https://scholar.go
 
 ## Thesis
 - Doctoral thesis
+
   **Zhou, C.** (2019). *Mitigating Variability Issues for Feature-based indoor positioning* (Doctoral dissertation, ETH Zurich). [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/371393/1/Thesis_Caifa_Zhou.pdf)
+  
 - Master thesis
 - Bachelor thesis
