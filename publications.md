@@ -18,8 +18,13 @@ Please find a full list of my publictions on [Google Scholar](https://scholar.go
 - Gu, Y., **Zhou, C.**, Wieser, A., & Zhou, Z. (2018). *Trajectory Estimation and Crowdsourced Radio Map Establishment From Foot-Mounted IMUs, Wi-Fi Fingerprints, and GPS Positions*. IEEE Sensors Journal, 19(3), 1104-1113.
 - Gojcic, Z., **Zhou, C.**, & Wieser, A. (2018). Learned compact local feature descriptor for TLS-based geodetic monitoring of natural outdoor scenes. International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 4, 113-120. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/311866/1/isprs-annals-IV-2-113-2018.pdf)
 
+## 2017
+- **Zhou, C.**, & Gu, Y. (2017, September). Joint positioning and radio map generation based on stochastic variational Bayesian inference for FWIPS. In 2017 International Conference on Indoor Positioning and Indoor Navigation (IPIN) (pp. 1-10). IEEE. [DPF](https://arxiv.org/pdf/1705.06025)
+- Gu, Y., **Zhou, C.**, Wieser, A., & Zhou, Z. (2017, September). *WiFi based trajectory alignment, calibration and crowdsourced site survey using smart phones and foot-mounted IMUs*. In 2017 International Conference on Indoor Positioning and Indoor Navigation (IPIN) (pp. 1-6). IEEE. [PDF](http://www.ipin2017.org/ipinpapers/44/44.pdf)
+
 ## 2016
 - **Zhou, C.**, & Wieser, A. (2016, November). *Application of backpropagation neural networks to both stages of fingerprinting based WIPS*. In 2016 Fourth International Conference on Ubiquitous Positioning, Indoor Navigation and Location Based Services (UPINLBS) (pp. 207-217). IEEE. [PDF](https://arxiv.org/pdf/1703.06912)
+
 ## Thesis
 - Doctoral thesis
   **Zhou, C.** (2019). *Mitigating Variability Issues for Feature-based indoor positioning* (Doctoral dissertation, ETH Zurich). [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/371393/1/Thesis_Caifa_Zhou.pdf)
