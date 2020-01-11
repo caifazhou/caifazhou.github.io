@@ -13,6 +13,10 @@ Please find a full list of my publictions on [Google Scholar](https://scholar.go
 - Gojcic, Z., **Zhou, C.**, & Wieser, A. (2019). *Robust pointwise correspondences for point cloud based deformation monitoring of natural scenes*. In 4th Joint International Symposium on Deformation Monitoring: JISDM. JISDM. [PDF](https://www.researchgate.net/profile/Zan_Gojcic/publication/333221444_Robust_pointwise_correspondences_for_point_cloud_based_deformation_monitoring_of_natural_scenes/links/5ce2cfef92851c4eabb0aa39/Robust-pointwise-correspondences-for-point-cloud-based-deformation-monitoring-of-natural-scenes.pdf)
 
 ## 2018
+- **Zhou, C.**, & Wieser, A. (2018, September). *CDM: Compound dissimilarity measure and an application to fingerprinting-based positioning*. In 2018 International Conference on Indoor Positioning and Indoor Navigation (IPIN) (pp. 1-7). IEEE. [PDF](https://arxiv.org/pdf/1805.06208)
+- **Zhou, C.**, & Wieser, A. (2018, January). *Jaccard analysis and LASSO-based feature selection for location fingerprinting with limited computational complexity*. In LBS 2018: 14th International Conference on Location Based Services (pp. 71-87). Springer, Cham. [PDF](https://arxiv.org/pdf/1711.07812)
+- Gu, Y., **Zhou, C.**, Wieser, A., & Zhou, Z. (2018). *Trajectory Estimation and Crowdsourced Radio Map Establishment From Foot-Mounted IMUs, Wi-Fi Fingerprints, and GPS Positions*. IEEE Sensors Journal, 19(3), 1104-1113.
+- Gojcic, Z., **Zhou, C.**, & Wieser, A. (2018). Learned compact local feature descriptor for TLS-based geodetic monitoring of natural outdoor scenes. International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 4, 113-120. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/311866/1/isprs-annals-IV-2-113-2018.pdf)
 
 ## 2016
 - **Zhou, C.**, & Wieser, A. (2016, November). *Application of backpropagation neural networks to both stages of fingerprinting based WIPS*. In 2016 Fourth International Conference on Ubiquitous Positioning, Indoor Navigation and Location Based Services (UPINLBS) (pp. 207-217). IEEE. [PDF](https://arxiv.org/pdf/1703.06912)
