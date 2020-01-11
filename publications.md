@@ -19,7 +19,7 @@ Please find a full list of my publictions on [Google Scholar](https://scholar.go
 - Gojcic, Z., **Zhou, C.**, & Wieser, A. (2018). Learned compact local feature descriptor for TLS-based geodetic monitoring of natural outdoor scenes. International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 4, 113-120. [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/311866/1/isprs-annals-IV-2-113-2018.pdf)
 
 ## 2017
-- **Zhou, C.**, & Gu, Y. (2017, September). Joint positioning and radio map generation based on stochastic variational Bayesian inference for FWIPS. In 2017 International Conference on Indoor Positioning and Indoor Navigation (IPIN) (pp. 1-10). IEEE. [DPF](https://arxiv.org/pdf/1705.06025)
+- **Zhou, C.**, & Gu, Y. (2017, September). Joint positioning and radio map generation based on stochastic variational Bayesian inference for FWIPS. In 2017 International Conference on Indoor Positioning and Indoor Navigation (IPIN) (pp. 1-10). IEEE. [PDF](https://arxiv.org/pdf/1705.06025)
 - Gu, Y., **Zhou, C.**, Wieser, A., & Zhou, Z. (2017, September). *WiFi based trajectory alignment, calibration and crowdsourced site survey using smart phones and foot-mounted IMUs*. In 2017 International Conference on Indoor Positioning and Indoor Navigation (IPIN) (pp. 1-6). IEEE. [PDF](http://www.ipin2017.org/ipinpapers/44/44.pdf)
 
 ## 2016
