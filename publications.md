@@ -32,3 +32,5 @@ Please find a full list of my publictions on [Google Scholar](https://scholar.go
 
 - Master thesis
 - Bachelor thesis
+
+  **Zhou, C.** (2013). *Mitigating Variability Issues for Feature-based indoor positioning* (Bachelor Thesis, Harbin Institute of Technology). [PDF](./assets/files/thesis/BT/Caifa_Zhou_BT.pdf)
