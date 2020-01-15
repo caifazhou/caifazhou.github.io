@@ -32,6 +32,7 @@ Please find a full list of my publictions on [Google Scholar](https://scholar.go
 
 - Master thesis
 
+  **Zhou, C.** (2013). *Research on WLAN localization appraoches based on manifold alignment* (in Chinese, Master Thesis, Harbin Institute of Technology). [PDF](./assets/files/thesis/MT/Caifa_Zhou_MT.pdf)
 
 - Bachelor thesis
 
