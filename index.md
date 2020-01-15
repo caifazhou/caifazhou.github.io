@@ -2,6 +2,7 @@
 layout: default
 title: News
 ---
+**2020-01-16**: I will join Riemann Lab (2012 Lab) at Huawei Technology Inc.
 
 **2020-01-10**: My personal webpage is published online.
 
