@@ -28,9 +28,11 @@ Please find a full list of my publictions on [Google Scholar](https://scholar.go
 ## Thesis
 - Doctoral thesis
 
-  **Zhou, C.** (2019). *Mitigating Variability Issues for Feature-based indoor positioning* (Doctoral dissertation, ETH Zurich). [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/371393/1/Thesis_Caifa_Zhou.pdf)
+  **Zhou, C.** (2019). *Mitigating variability issues for feature-based indoor positioning* (Doctoral dissertation, ETH Zurich). [PDF](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/371393/1/Thesis_Caifa_Zhou.pdf)
 
 - Master thesis
+
+
 - Bachelor thesis
 
-  **Zhou, C.** (2013). *Mitigating Variability Issues for Feature-based indoor positioning* (Bachelor Thesis, Harbin Institute of Technology). [PDF](./assets/files/thesis/BT/Caifa_Zhou_BT.pdf)
+  **Zhou, C.** (2013). *Research on the application of LDE algorithm to WiFi-based indoor positioning* (in Chinese, Bachelor Thesis, Harbin Institute of Technology). [PDF](./assets/files/thesis/BT/Caifa_Zhou_BT.pdf)
