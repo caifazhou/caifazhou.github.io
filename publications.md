@@ -6,6 +6,9 @@ published: true
 ---
 Please find a full list of my publictions on [Google Scholar](https://scholar.google.ch/citations?user=DGxuxdUAAAAJ&hl=en).
 
+## 2020
+- Gojcic, Z., **Zhou, C.**, & Wieser, A. (2019).. *F2S3: Robustified determination of 3D displacement vector fields using deep learning*. Journal of Applied Geodesy. [PDF](https://www.degruyter.com/downloadpdf/j/jag.ahead-of-print/jag-2019-0044/jag-2019-0044.xml)
+
 ## 2019
 - **Zhou, C.** (2019). *Feature-wise change detection and robust indoor positioning using RANSAC-like approach*. arXiv preprint arXiv:1912.09301.
 - **Zhou, C.**, & Wieser, A. (2019). *Modified Jaccard index analysis and adaptive feature selection for location fingerprinting with limited computational complexity*. Journal of Location Based Services, 13(2), 128-157. [PDF](https://www.tandfonline.com/doi/pdf/10.1080/17489725.2019.1577505?casa_token=5xpv2GzejZMAAAAA:gPVQyMTfKDqlNQjm1YmrD9sPqYlNv6MIPnU93qfSFk5e5IlKClDE3Hzl7PrZO5J6rv0Ea-XkbVOhrA)
