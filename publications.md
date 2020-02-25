@@ -7,8 +7,9 @@ published: true
 Please find a full list of my publictions on [Google Scholar](https://scholar.google.ch/citations?user=DGxuxdUAAAAJ&hl=en).
 
 ## 2020
+- **Zhou, C.**, Gojcic, Z., Wegner, J. D., Guibas L. J. & Birdal, T. (2020). *Learning multiview 3D point cloud registration*. arXiv preprint arXiv:2001.05119, 2020 (To be published on CVPR 2020).
 - Gojcic, Z., **Zhou, C.**, & Wieser, A. (2019).. *F2S3: Robustified determination of 3D displacement vector fields using deep learning*. Journal of Applied Geodesy. [PDF](https://www.degruyter.com/downloadpdf/j/jag.ahead-of-print/jag-2019-0044/jag-2019-0044.xml)
-- **Zhou, C.**, Gojcic, Z., Wegner, J. D., Guibas L. J. & Birdal, T. (2020).. *Learning multiview 3D point cloud registration*. arXiv preprint arXiv:2001.05119, 2020.
+
 
 ## 2019
 - **Zhou, C.** (2019). *Feature-wise change detection and robust indoor positioning using RANSAC-like approach*. arXiv preprint arXiv:1912.09301.
