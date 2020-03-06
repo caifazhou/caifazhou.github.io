@@ -2,7 +2,7 @@
 layout: default
 title: News
 ---
-**2019-02-23**: Our paper [*Learning multiview 3D point cloud registration*](https://arxiv.org/abs/2001.05119) is accepted to CVPR 2020. See you all in Seatle.
+**2020-02-23**: Our paper [*Learning multiview 3D point cloud registration*](https://arxiv.org/abs/2001.05119) is accepted to CVPR 2020. See you all in Seatle.
 
 **2020-01-18**: A new preprint submission in the title of [Learning multiview 3D point cloud registration](https://arxiv.org/abs/2001.05119) (coauthored with Zan Gojcic, Jan Dirk Wegner, Leonidas J. Guibas and Tolga Birdal) has been released.
 
